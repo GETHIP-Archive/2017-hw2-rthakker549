@@ -1,0 +1,10 @@
+{
+    "firstName":"Rohan",
+    "lastName":"Thakker",
+    "age":17,
+    "picture": "https://pbs.twimg.com/profile_images/724645413245034496/2LsnSLs1.jpg",
+    "topStrengths": [
+        {"top2": "Restorative"},
+        {"top2": "Input"}
+    ]
+}
